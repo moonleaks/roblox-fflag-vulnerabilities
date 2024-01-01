@@ -16,7 +16,7 @@ Physics Changing Flags
 7. Gear desync just by dropping it
 "DFIntDataSenderRate": "-1"
 8. Another noclip fflag but acts differently
-"DFFlagAssemblyExtentsExpansionStudHundredth": "-150"
+"DFIntAssemblyExtentsExpansionStudHundredth": "-150"
 9. Freezes character in any state, can cause crashes, basically stacks input data
 "FFlagSimIslandizerManager": "false"
 10. Spins character when moving
@@ -51,4 +51,4 @@ Physics Changing Flags
 24. noclip, but like complete noclip, you will fall through the floor
 "DFIntSHCellMinSizeAsBitShift": "4"
 25. Wallglide
-"DFFlagUnstickForceAttackInTenths": "-1"
+"DFIntUnstickForceAttackInTenths": "-1"
