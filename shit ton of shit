@@ -1,4 +1,26 @@
 thanks to fishe for these
+Physics Changing Flags
+1. Uncap FPS
+"DFIntTaskSchedulerTargetFps": "9999"
+2. Causes some character collision from jumping physics breakdown, making model ragdoll
+"DFIntLandedBalanceD": "-2000"
+3. All type of wallhops, longjumps, headhitters and probably more stop working
+"DFFlagSimHumanoidPhysics": "True"
+4. Break legs collision from 2 to -inf, kinda break camera on values over 3
+"DFIntRaycastMaxDistance": "0"
+5. Kinda breaks movement and some other stuff on higher negative values
+"FIntPGSAngularDampingPermilPersecond": "-10000"
+6. Default is for the first one is "True". Basically with False, and True. It allows you to fall quicker and ignore certain block designs. For example if you're playing phantom forces and normally if you go up a slanted hill that goes upward it makes you slower. But, this makes you pretty much have no slowdowns.
+"FFlagHumanoidOnlySetCollisionsOnStateChangeDefaultIsEnabled": "False"
+"FFlagHumanoidParallelFasterSetCollision": "True"
+7. Gear desync just by dropping it
+"DFIntDataSenderRate": "-1"
+8. Another noclip fflag but acts differently
+"DFFlagAssemblyExtentsExpansionStudHundredth": "-150"
+9. Freezes character in any state, can cause crashes, basically stacks input data
+"FFlagSimIslandizerManager": "false"
+10. Spins character when moving
+"DFIntRunningBaseOrientationP": "-14"
 11. Makes character upside down
 "DFIntFreeFallBalanceP": "-9999"
 12. Makes character ragdoll forever
