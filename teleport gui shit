@@ -1,0 +1,7 @@
+FFLAG Name:FFlagCoreScriptShowTeleportPrompt
+set it to: true
+puporse:so when you get teleported you can put a custom gui 
+game:GetService("TeleportService"):SetTeleportGui("whatever gui")
+and it will get deleted when teleported but when you use FFlagCoreScriptShowTeleportPrompt
+it stays
+thanks to producer for the example
