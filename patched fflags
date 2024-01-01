@@ -1,0 +1,8 @@
+thanks to fishy again
+"DFIntDebugSimForceWorldStepCount": "14"
+"DFIntJumpPowerInstantControllerMultiplierPercent": "1000"
+"DFIntDefaultBalanceD": "-10"
+"DFIntDefaultBalanceP": "-10"
+"DFIntFreeFallFloorSearchDistanceIncreaseVelocity": "1"
+"DFIntSolidFloorPercentForceApplication": "1000"
+"DFIntGeometricStiffnessAlpha": "-100000"
