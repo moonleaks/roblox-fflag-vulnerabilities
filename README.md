@@ -8,7 +8,7 @@ I HAVENT TESTED MOST OF THESE IF THEY ARE PATCHED SORRY
 ### creds; fastvar
 
  # List Navigation
-* **[Physics](https://github.com/devstacking/Epic-Fast-Flags-List#physics-changing0-flags)**
+* **[Physics](https://github.com/devstacking/Roblox.Glitching.Community.FFlags.Collective#physics-changing-flags)**
 
 # Physics Changing FFlags
 
