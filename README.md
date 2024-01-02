@@ -159,13 +159,13 @@ I HAVENT TESTED MOST OF THESE IF THEY ARE PATCHED SORRY
 	"FFlagDebugSimIntegrationStabilityTesting": "True"
 }
 ```
-### Noclip <sup>literally</sup>
+### 24. Noclip <sup>literally</sup>
 ```json
 {
 	"DFIntSHCellMinSizeAsBitShift": "4"
 }
 ```
-### Wallglide
+### 25. Wallglide
 ```json
 {
 	"DFFlagUnstickForceAttackInTenths": "-4"
